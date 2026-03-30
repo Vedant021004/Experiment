@@ -1,7 +1,12 @@
-<!-- Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5D020,3B5323&height=200&section=header&text=Vedant%20Kaipil&fontSize=55&fontColor=F5D020&fontAlignY=38&desc=CS%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20%26%20DevOps%20Learner&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5D020,3B5323,1a2e0f&height=220&section=header&text=Vedant%20Kaipil&fontSize=60&fontColor=F5D020&fontAlignY=38&desc=CS%20Student%20%7C%20Aspiring%20Full%20Stack%20Developer%20%7C%20AI%20%26%20DevOps%20Learner&descSize=16&descAlignY=58&descColor=a8c080&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F5D020&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Vedant+%F0%9F%91%8B;CS+Student+%7C+Future+Full+Stack+Dev;Learning+DevOps+%2B+LLMs+%2B+Backend;Always+Coding+%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,51 +14,64 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Vedant021004-3B5323?style=for-the-badge&logo=github&logoColor=F5D020)](https://github.com/Vedant021004)
-[![Email](https://img.shields.io/badge/Email-vedantkp79@gmail.com-1a2e0f?style=for-the-badge&logo=gmail&logoColor=F5D020)](mailto:vedantkp79@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vedant021004-1a2e0f?style=for-the-badge&logo=github&logoColor=F5D020&labelColor=2c4a1e)](https://github.com/Vedant021004)&nbsp;
+[![Email](https://img.shields.io/badge/Email-vedantkp79@gmail.com-1a2e0f?style=for-the-badge&logo=gmail&logoColor=F5D020&labelColor=2c4a1e)](mailto:vedantkp79@gmail.com)&nbsp;
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Collaborate-F5D020?style=for-the-badge&logoColor=1a2e0f&labelColor=3B5323)](https://github.com/Vedant021004)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 ```yaml
-Name     : Vedant Kaipil
-Role     : CS Student | Aspiring Full Stack Developer
-Learning : DevOps · LLMs · Backend Development
-Focus    : Building strong foundations in CS & systems
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   name     :  Vedant Kaipil                          ║
+║   role     :  CS Student → Full Stack Developer      ║
+║   learning :  DevOps · LLMs · Backend Development   ║
+║   passion  :  Building things that matter            ║
+║   status   :  Always coding. Always growing. 🚀      ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
-
-> *"Code is not just syntax — it's a way of thinking."*
 
 ---
 
 ## 🚀 Projects
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>📁 Basic Repository</h3>
-      <p>Beginner-friendly programs in <strong>C, C++, Java & Python</strong> covering core programming concepts.</p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🗂️ Student Management System</h3>
-      <p>CLI-based <strong>Python</strong> app using file handling to manage student records efficiently.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CLI-1a2e0f?style=flat-square&logo=windowsterminal&logoColor=F5D020"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>☕ Java OOP Practice Suite</h3>
-      <p>Hands-on programs demonstrating <strong>OOP</strong> — classes, inheritance, polymorphism & more.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OOP-3B5323?style=flat-square&logoColor=F5D020"/>
-    </td>
-  </tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 📁 Basic Repository
+Beginner-friendly programs in **C, C++, Java & Python** covering core programming concepts.
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🗂️ Student Management System
+**CLI-based Python** app using file handling to manage student records with ease.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-1a2e0f?style=flat-square&logo=windowsterminal&logoColor=F5D020)
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ☕ Java OOP Practice Suite
+Hands-on programs covering **OOP** — classes, inheritance, polymorphism & abstraction.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-3B5323?style=flat-square&logoColor=F5D020)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -69,11 +87,11 @@ Focus    : Building strong foundations in CS & systems
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧠 Core Concepts
-![DSA](https://img.shields.io/badge/Data%20Structures-3B5323?style=for-the-badge&logoColor=F5D020)
+![DSA](https://img.shields.io/badge/Data%20Structures-2c4a1e?style=for-the-badge&logoColor=F5D020)
 ![OOP](https://img.shields.io/badge/OOP-1a2e0f?style=for-the-badge&logoColor=F5D020)
-![CN](https://img.shields.io/badge/Computer%20Networks-2c4a1e?style=for-the-badge&logoColor=F5D020)
+![CN](https://img.shields.io/badge/Computer%20Networks-3B5323?style=for-the-badge&logoColor=F5D020)
 
-### 🛠️ Tools
+### 🛠️ Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=F5D020)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -91,15 +109,25 @@ Focus    : Building strong foundations in CS & systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=chartreuse-dark&bg_color=1a2e0f&title_color=F5D020&icon_color=F5D020&text_color=ffffff&border_color=3B5323&border_radius=10" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&theme=chartreuse-dark&bg_color=1a2e0f&title_color=F5D020&text_color=ffffff&border_color=3B5323&border_radius=10" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&bg_color=1a2e0f&title_color=F5D020&icon_color=F5D020&text_color=a8c080&border_color=3B5323&border_radius=12" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant021004&layout=compact&bg_color=1a2e0f&title_color=F5D020&text_color=a8c080&border_color=3B5323&border_radius=12" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant021004&theme=dark&background=1a2e0f&ring=F5D020&fire=F5D020&currStreakLabel=F5D020&sideLabels=ffffff&dates=aaaaaa&border=3B5323&border_radius=10" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant021004&background=1a2e0f&ring=F5D020&fire=F5D020&currStreakLabel=F5D020&sideLabels=a8c080&dates=5a7a40&border=3B5323&border_radius=12" width="65%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vedant021004&theme=matrix&no-bg=true&no-frame=true&column=6&margin-w=8"/>
 
 </div>
 
@@ -110,29 +138,23 @@ Focus    : Building strong foundations in CS & systems
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Vedant021004/Vedant021004/output/github-snake.svg"/>
 </picture>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vedant021004&theme=matrix&no-bg=true&no-frame=true&column=6&margin-w=10" width="100%"/>
+### 💬 *"Code is not just syntax — it's a way of thinking."*
 
-</div>
+<br/>
 
----
+![Visitor Count](https://komarev.com/ghpvc/?username=Vedant021004&color=3B5323&style=for-the-badge&label=PROFILE+VIEWS)
 
-<div align="center">
-
-### 🌱 *Always learning. Always building. Always growing.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5D020,3B5323&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a2e0f,3B5323,F5D020&height=120&section=footer" width="100%"/>
 
 </div>
