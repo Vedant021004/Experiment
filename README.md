@@ -20,16 +20,4 @@ Mode        : Learning | Building | Scaling
 Core        : Discipline + Curiosity
 ```
 
-graph TD
-A[Languages] --> B[C]
-A --> Cpp[C++]
-A --> D[Java]
-A --> E[Python]
 
-F[Tools] --> G[Git]
-F --> H[GitHub]
-F --> I[VS Code]
-
-J[Concepts] --> K[OOP]
-J --> L[DSA]
-J --> M[Computer Networks]
