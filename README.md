@@ -1,41 +1,67 @@
+<h1 align="center">Hey 👋, I'm Vedant</h1>
+<h3 align="center">🚀 CS Student | Future DevOps Engineer | AI Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Building+Skills+Daily+🚀;Full+Stack+%2B+DevOps+Learner;Consistency+%3E+Talent;Turning+Ideas+into+Code" />
+</p>
 
 ---
 
-## ⚠️ IMPORTANT (SNAKE FIX — DO THIS)
+## 🧠 About Me
 
-Your snake didn’t work because of missing GitHub Action.  
-Do this:
+- 🎓 CS Student from India  
+- 💻 Learning **Full Stack + DevOps + AI (LLMs)**  
+- 🔥 I build projects to understand concepts deeply  
+- 🧩 Currently exploring **Backend + Automation + Systems**
 
-1. Go to your repo:  
-👉 `Vedant021004/Vedant021004`
+---
 
-2. Create file:  
-`.github/workflows/snake.yml`
+## ⚡ Tech Stack
 
-3. Paste this:
+### 👨‍💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-```yaml
-name: Generate Snake
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+### 🚧 Learning
+![DevOps](https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=linux)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai)
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+---
 
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Vedant021004
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+## 🚀 Projects
 
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+🔹 **Basic Repository**  
+📌 Beginner-friendly programs (C, C++, Java, Python)
+
+🔹 **Student Management System**  
+📌 CLI-based system using Python file handling
+
+🔹 **Java OOP Practice**  
+📌 Core OOP concepts implementation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant021004&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant021004&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 DevOps Mindset
+
+```bash
+while(true) {
+   learn();
+   build();
+   break_limits();
+}
