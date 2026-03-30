@@ -10,11 +10,12 @@
 
 ---
 
-## 🧠 SYSTEM KERNEL
+## 🧠 SYSTEM KERNEL  
 
-
-User        : Vedant Kaipil
-Username    : Vedant021004
-Role        : CS Student → DevOps Engineer (in progress)
-Mode        : Learning | Building | Scaling
+```bash
+User        : Vedant Kaipil  
+Username    : Vedant021004  
+Role        : CS Student → DevOps Engineer (in progress)  
+Mode        : Learning | Building | Scaling  
 Core        : Discipline + Curiosity
+```
