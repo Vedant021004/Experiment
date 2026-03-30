@@ -1,5 +1,5 @@
 
-<h1 align="center">🧠 C Pointers & Arrays — From Basic to Hero 🚀</h1>
+<h1 align="center">🧠 C Pointers & Arrays - Concepts WHich are Hidden 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Mastering+Pointers+Step+by+Step;Hidden+Concepts+Explained;From+Beginner+to+Hero;Memory+Control+Like+a+Pro" />
