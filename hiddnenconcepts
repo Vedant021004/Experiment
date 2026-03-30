@@ -1,44 +1,12 @@
-<div align="center">
+# 🧠 C Pointers & Arrays — From Basic to Hero 🚀
 
-# `⚡ DEEP-C // MEMORY_MATRIX`
-
-> **"Pointers are not variables. They are raw hardware interfaces."**
-
-[![C](https://img.shields.io/badge/Language-C99%20%7C%20C11-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-[![Build](https://img.shields.io/badge/Arch-x86__64%20%7C%20ARM64-black?style=for-the-badge)]()
-[![Status](https://img.shields.io/badge/Status-Kernel_Space-red?style=for-the-badge)]()
-
-*A research repository exploring bare-metal memory manipulation, undefined behavior sanitization, and pointer arithmetic at the hardware-software boundary.*
-
-</div>
+> A collection of hidden, tricky, and powerful concepts of pointers & arrays in C  
+> Built for learning, revision, and interview preparation
 
 ---
 
-## 🏛️ System Memory Architecture 
-*Rendered via Mermaid.js — The anatomy of a C process in Virtual Memory.*
+## 📌 1. Array vs Pointer
 
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-graph TD
-    subgraph Virtual Address Space [Virtual Address Space 0x00000000 to 0xFFFFFFFF]
-        direction TB
-        CLI[Command Line Args / Env Vars] 
-        STACK[Stack Segment <br/> Local vars, function frames]
-        FREE[... Unallocated Memory ...]
-        HEAP[Heap Segment <br/> malloc, calloc, realloc]
-        BSS[BSS Segment <br/> Uninitialized Globals]
-        DATA[Data Segment <br/> Initialized Globals, String Literals]
-        TEXT[Text Segment <br/> Compiled Binary Instructions - Read Only]
-        
-        CLI --- STACK
-        STACK -.->|Grows Down| FREE
-        HEAP -.->|Grows Up| FREE
-        BSS --- HEAP
-        DATA --- BSS
-        TEXT --- DATA
-    end
-    
-    classDef memory fill:#1e1e1e,stroke:#00ff00,stroke-width:2px,color:#fff;
-    class CLI,STACK,HEAP,BSS,DATA,TEXT memory;
-    classDef free fill:#000000,stroke:#333,stroke-width:1px,stroke-dasharray: 5 5,color:#555;
-    class FREE free;
+```c
+int arr[3] = {10,20,30};
+int *p = arr;
