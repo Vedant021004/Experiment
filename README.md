@@ -13,7 +13,7 @@
 ## 🧠 SYSTEM KERNEL
 
 ```bash
-User        : Vedant Kaipil
+User        : Vedant Kapil
 Username    : Vedant021004
 Role        : CS Student → DevOps Engineer (in progress)
 Mode        : Learning | Building | Scaling
