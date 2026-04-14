@@ -11,7 +11,7 @@ PORT = 65432
 class TrafficUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("Dining Philosophers: Traffic Gridlock Simulator")
+        self.root.title("Dining Philosophers–Based Traffic Deadlock Prevention")
         self.root.geometry("1000x750")
         self.root.configure(bg="#0b0c10")
 
@@ -33,7 +33,7 @@ class TrafficUI:
         top_frame = tk.Frame(self.root, bg="#1f2833")
         top_frame.pack(fill=tk.X, pady=10)
         
-        tk.Label(top_frame, text="OS & AOA Mini-Project: The Dining Philosophers", font=("Helvetica", 16, "bold"), bg="#1f2833", fg="#66fcf1").pack()
+        tk.Label(top_frame, text="Dining Philosophers–Based Traffic Deadlock Prevention", font=("Helvetica", 16, "bold"), bg="#1f2833", fg="#66fcf1").pack()
         tk.Label(top_frame, text="Philosophers = Cars | Forks = Intersection Zones 1,2,3,4", font=("Helvetica", 10), bg="#1f2833", fg="#c5c6c7").pack()
         
         # Throughput Metric (Best Idea)
